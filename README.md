@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Blizzard! You can call me `Blizzy`!
+- 👋 Hi, I’m `Blizzard`! You can call me `Blizzy`!
 - 👀 I’m interested in animes, mangas and science!
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Basic Projects.
